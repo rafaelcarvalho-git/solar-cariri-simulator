@@ -1,2 +1,1 @@
-# solar-cariri-simulator
-Projeto do 1° Semestre
+## Projeto da disciplina de ALGORITMO E PROGRAMAÇÃO I pelo IFCE.
